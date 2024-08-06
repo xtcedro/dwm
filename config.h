@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* Constants */
-#define TERMINAL "st"
+#define TERMINAL "xfce4-terminal"
 #define TERMCLASS "St"
 #define BROWSER "chromium-browser"
 
